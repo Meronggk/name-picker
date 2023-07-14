@@ -1,5 +1,14 @@
+body {
+}
 .App {
   text-align: center;
+  border: 3px solid rgb(8, 115, 238);
+  border-bottom: 3px solid #f80be4;
+  border-right: 3px solid #f80be4;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 5px;
 }
 
 .App-logo {
@@ -35,4 +44,55 @@
   to {
     transform: rotate(360deg);
   }
+}
+.title {
+  color: grey;
+}
+.list-container {
+  display: inline-block;
+}
+.list-container button {
+  border-radius: 5px;
+  display: inline-block;
+  margin-left: 5px;
+}
+.favorite {
+  color: grey;
+  text-align: left;
+  margin-top: 5%;
+}
+hr {
+  color: grey;
+  border-top: 1px solid rgb(187, 184, 184);
+  width: 90%;
+}
+.list-container :first-child {
+  text-decoration: none;
+  color: rgb(19, 18, 18);
+}
+.male {
+  background-color: rgb(173, 166, 166);
+}
+.female {
+  background-color: #ec7070;
+}
+.girl {
+  background-color: #ec7070;
+  width: 60px;
+  border-radius: 5px;
+}
+.boy {
+  width: 60px;
+  border-radius: 5px;
+  background-color:  rgb(173, 166, 166);
+}
+.all {
+  width: 60px;
+  background-color: rgb(46, 37, 33);
+  border-radius: 5px;
+  color: white;
+}
+input {
+  margin-top: 2%;
+  margin-bottom: 0.5%;
 }

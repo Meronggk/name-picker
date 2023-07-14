@@ -1,6 +1,6 @@
 import React from "react";
 
-const BabyName = (props) => {
+const Name = (props) => {
   return (
     <div className="list-container">
       <div>
@@ -11,4 +11,4 @@ const BabyName = (props) => {
     </div>
   );
 };
-export default BabyName;
+export default Name;
