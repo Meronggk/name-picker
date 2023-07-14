@@ -104,5 +104,35 @@ const NamesData = [
       name: "Cyrus",
       sex: "m",
     },
+    {
+        id: 21,
+        name: "Brad",
+        sex: "m",
+      },
+      {
+        id: 22,
+        name: "Nick",
+        sex: "m",
+      },
+      {
+        id: 23,
+        name: "Dmet",
+        sex: "f",
+      },
+      {
+        id: 24,
+        name: "Yordu",
+        sex: "f",
+      },
+      {
+        id: 25,
+        name: "Yor",
+        sex: "m",
+      },
+      {
+        id: 26,
+        name: "Arsu",
+        sex: "f",
+      },
 ];
 export default NamesData;  
