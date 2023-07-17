@@ -50,11 +50,8 @@ const NameLists = (props) => {
               return el.name.toLowerCase().includes(searchTerm.toLowerCase());
             }
           })
-            .filter((el) => {
-              if (el.sex === "f") {
-                return el;
-              }
-            })
+            .filter((el) => el.sex === "f")
+             
             .filter((item) => !fav.includes(item.id))
 
             .sort((a, b) => {

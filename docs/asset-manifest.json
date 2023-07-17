@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.864588e4.css",
-    "main.js": "/static/js/main.b933e567.js",
-    "static/js/787.5634cb7b.chunk.js": "/static/js/787.5634cb7b.chunk.js",
-    "index.html": "/index.html",
-    "main.864588e4.css.map": "/static/css/main.864588e4.css.map",
-    "main.b933e567.js.map": "/static/js/main.b933e567.js.map",
-    "787.5634cb7b.chunk.js.map": "/static/js/787.5634cb7b.chunk.js.map"
+    "main.css": "https://meronggk.github.io/name-picker/static/css/main.27f13c0b.chunk.css",
+    "main.js": "https://meronggk.github.io/name-picker/static/js/main.a4029366.chunk.js",
+    "main.js.map": "https://meronggk.github.io/name-picker/static/js/main.a4029366.chunk.js.map",
+    "runtime-main.js": "https://meronggk.github.io/name-picker/static/js/runtime-main.2adaf860.js",
+    "runtime-main.js.map": "https://meronggk.github.io/name-picker/static/js/runtime-main.2adaf860.js.map",
+    "static/js/2.fbf37dbd.chunk.js": "https://meronggk.github.io/name-picker/static/js/2.fbf37dbd.chunk.js",
+    "static/js/2.fbf37dbd.chunk.js.map": "https://meronggk.github.io/name-picker/static/js/2.fbf37dbd.chunk.js.map",
+    "static/js/3.01d1a423.chunk.js": "https://meronggk.github.io/name-picker/static/js/3.01d1a423.chunk.js",
+    "static/js/3.01d1a423.chunk.js.map": "https://meronggk.github.io/name-picker/static/js/3.01d1a423.chunk.js.map",
+    "index.html": "https://meronggk.github.io/name-picker/index.html",
+    "static/css/main.27f13c0b.chunk.css.map": "https://meronggk.github.io/name-picker/static/css/main.27f13c0b.chunk.css.map",
+    "static/js/2.fbf37dbd.chunk.js.LICENSE.txt": "https://meronggk.github.io/name-picker/static/js/2.fbf37dbd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.864588e4.css",
-    "static/js/main.b933e567.js"
+    "static/js/runtime-main.2adaf860.js",
+    "static/js/2.fbf37dbd.chunk.js",
+    "static/css/main.27f13c0b.chunk.css",
+    "static/js/main.a4029366.chunk.js"
   ]
 }
